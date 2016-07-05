@@ -13,7 +13,8 @@ Bundle 'gmarik/vundle'
 "------------------
 Bundle 'Shougo/neocomplcache'
 Bundle 'mattn/emmet-vim'
-Bundle 'Raimondi/delimitMate'
+"Bundle 'Raimondi/delimitMate'
+Bundle 'jiangmiao/auto-pairs'
 Bundle 'ervandew/supertab'
 " snippets
 Bundle 'garbas/vim-snipmate'
@@ -56,6 +57,9 @@ Bundle 'bronson/vim-trailing-whitespace'
 " Bundle 'humiaozuzu/fcitx-status'
 Bundle 'nvie/vim-togglemouse'
 
+"----JSX------
+Bundle 'mxw/vim-jsx'
+
 "----------------------------------------
 " Syntax/Indent for language enhancement
 "----------------------------------------
@@ -74,6 +78,9 @@ Bundle 'nono/jquery.vim'
 " Bundle 'groenewege/vim-less'
 " Bundle 'wavded/vim-stylus'
 " Bundle 'nono/vim-handlebars'
+" Bundle 'posva/vim-vue'
+Bundle 'darthmall/vim-vue'
+Bundle 'isRuslan/vim-es6'
 
 "------- markup language -------
 Bundle 'tpope/vim-markdown'
