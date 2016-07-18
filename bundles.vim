@@ -42,6 +42,8 @@ Bundle 'nathanaelkane/vim-indent-guides'
 " IDE features
 "--------------
 Bundle 'scrooloose/nerdtree'
+Bundle 'Xuyuanp/nerdtree-git-plugin'
+Bundle 'jistr/vim-nerdtree-tabs'
 Bundle 'humiaozuzu/TabBar'
 Bundle 'majutsushi/tagbar'
 Bundle 'mileszs/ack.vim'
@@ -80,7 +82,7 @@ Bundle 'nono/jquery.vim'
 " Bundle 'nono/vim-handlebars'
 " Bundle 'posva/vim-vue'
 Bundle 'darthmall/vim-vue'
-Bundle 'isRuslan/vim-es6'
+" Bundle 'isRuslan/vim-es6'
 
 "------- markup language -------
 Bundle 'tpope/vim-markdown'
